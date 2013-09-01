@@ -1,0 +1,111 @@
+{
+name		Boa
+model		athena/swat_b
+aifile		bots/ut_boa_c.c
+gear		FKAOWRA
+}
+
+{
+name		Cheetah
+model		athena/urban_w
+aifile		bots/ut_cheetah_c.c
+gear		GLAAWRU
+}
+
+{
+name		Chicken
+model		orion/desert_b
+aifile		bots/ut_chicken_c.c
+gear		fMAQWRA
+}
+
+{
+name		Cobra
+model		orion/cobra_b
+aifile		bots/ut_cobra_c.c
+gear		geAAWRV
+}
+
+{
+name		Cockroach
+model		athena/tag_w
+aifile		bots/ut_cockroach_c.c
+gear		FaAOWRA
+}
+
+{
+name		Cougar
+model		athena/urban_b
+aifile		bots/ut_cougar_c.c
+gear		GcAQWRA
+}
+
+{
+name		Goose
+model		athena/desert_w
+aifile		bots/ut_goose_c.c
+gear		fHAOWRA
+}
+
+{
+name		Mantis
+model		athena/terror_b
+aifile		bots/ut_mantis_c.c
+gear		gIAAWRU
+}
+
+{
+name		Penguin	
+model		orion/desert_w
+aifile		bots/ut_penguin_c.c
+gear		FJAQWRA	
+}
+
+{
+name		Puma
+model		orion/swat_w
+aifile		bots/ut_puma_c.c
+gear		GhAAWRV
+}
+
+{
+name		Python
+model		orion/cobra_w
+aifile		bots/ut_python_c.c
+gear		fNAOWRA
+}
+
+{
+name		Raven
+model		athena/desert_b
+aifile		bots/ut_raven_c.c
+gear		gZAQWRX
+}
+
+{
+name		Scarab
+model		orion/urban_b
+aifile		bots/ut_scarab_c.c
+gear		FKJOWAA
+}
+
+{
+name		Scorpion
+model		athena/cobra_w
+aifile		bots/ut_scorpion_c.c
+gear		GNHAWRA
+}
+
+{
+name		Tiger
+model		orion/swat_w
+aifile		bots/ut_tiger_c.c
+gear		fcAAWRS
+}
+
+{
+name		Widow
+model		athena/terror_b
+aifile		bots/ut_widow_c.c
+gear		gHhAWRA
+}
